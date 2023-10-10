@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @norb4ki
 - 👀 I’m interested in learning and finding a team
-- 🌱 I’m currently learning java and android programming
-- 💞️ I’m looking to collaborate on any android applications
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking to collaborate on any front-end project
 - 📫 Telegram: @norb4ki
 
 <!---
