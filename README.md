@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @norb4ki
+- 👋 Hi, my name is Vladimir Baraniuk
 - 👀 I’m interested in learning and finding a team
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Redux Tool Kit
 - 💞️ I’m looking to collaborate on any front-end project
 - 📫 Telegram: @norb4ki
 
